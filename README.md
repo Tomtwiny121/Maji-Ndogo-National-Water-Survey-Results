@@ -37,3 +37,6 @@ We will need to show the following data:
 4. Add relevant provincial data. Queues, gender compositions and crime, broken taps by town, etc., in provinces where it is relevant.
 5. Summary of improvements and costs.
 
+<img width="805" alt="Screenshot 2024-01-22 042738" src="https://github.com/Tomtwiny121/Maji-Ndogo-National-Water-Survey-Results/assets/128513453/558f3a3d-9a6d-4b78-84d1-7a751dcdda21">
+
+
