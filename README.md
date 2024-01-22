@@ -15,7 +15,7 @@
 
 ## Recommendations: Based on the survey results, recommendations were provided for improving water infrastructure, enhancing water quality, and implementing sustainable water management practices. These recommendations aimed to address current challenges and support the long-term development of Maji Ndogo's water resources.
 
-The Maji Ndogo National Water Survey Results serve as a foundation for informed decision-making, enabling authorities, policymakers, and water management agencies to implement targeted interventions and initiatives for sustainable water development and management in the region.
+## The Maji Ndogo National Water Survey Results serve as a foundation for informed decision-making, enabling authorities, policymakers, and water management agencies to implement targeted interventions and initiatives for sustainable water development and management in the region.
 ## For each of these user stories, we have to think about what data the user will need to answer that question.
 So let's apply the what.
 1. I want to see the key points of the survey results so I understand the overall status of water access in Maji Ndogo.
