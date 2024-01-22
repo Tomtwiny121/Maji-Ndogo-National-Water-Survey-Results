@@ -40,3 +40,6 @@ We will need to show the following data:
 <img width="805" alt="Screenshot 2024-01-22 042738" src="https://github.com/Tomtwiny121/Maji-Ndogo-National-Water-Survey-Results/assets/128513453/558f3a3d-9a6d-4b78-84d1-7a751dcdda21">
 
 
+<img width="826" alt="Screenshot " src="https://github.com/Tomtwiny121/Maji-Ndogo-National-Water-Survey-Results/assets/128513453/f39d0bdf-c62b-4609-9407-970a508745e4">
+
+
